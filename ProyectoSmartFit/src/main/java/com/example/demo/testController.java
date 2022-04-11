@@ -9,6 +9,6 @@ public class testController {
 	@RequestMapping("/probando")
 	public String saludoPrueba()
 	{
-		return "Hola";
+		return "Está funcionando";
 	}
 }
